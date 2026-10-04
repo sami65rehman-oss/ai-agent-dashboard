@@ -1,0 +1,14 @@
+# Environment variables (Secret Keys)
+.env
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local PDF files created during testing
+*.pdf
